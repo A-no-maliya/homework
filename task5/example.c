@@ -7,7 +7,7 @@ int main()
 {
     setlocale(LC_ALL, "Rus");
 
-    time_t start, end;                          // type of time
+    time_t start, end;                                          // type of time
     int num1, num2, num3, siz = sizeof(int), timelim = 30;      // sizeof return размер типа
 
     start = time(NULL);
