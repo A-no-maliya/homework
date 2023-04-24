@@ -1,3 +1,4 @@
+// не получилось довести до конца
 // dynamic array
 
 /*realloc allows you to change the size of the previously 
